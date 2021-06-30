@@ -1,0 +1,273 @@
+body{
+    background-color: rgb(32, 32, 32);
+    margin-left:15%;
+    margin-right:15%;
+    margin:0;
+}
+
+header{
+    font-size: 80px;
+    font-family: 'Mate SC', serif;
+    color:white; 
+    border: solid black 1px;
+    background-color: black;
+    text-align: center;
+    font-size:25px;
+}
+
+menu{
+    font-family: 'Staatliches', cursive;
+    padding:0;
+    margin:0;
+    text-align:center;
+    background-color: rgb(71, 69, 69);
+    width:100%;
+}
+
+menu:hover{
+    color:azure;
+    background:radial-gradient(rgb(0, 0, 0), rgb(37, 37, 37))
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+nav{
+    padding:0;
+    margin:0;
+    background-color:rgb(255, 255, 255) ;
+    border:1px solid rgb(255, 255, 255);
+}
+
+
+
+.primeiro{
+    margin-left:18%;
+    margin-right:18%;
+    background-color:rgb(0, 0, 0);
+    color:azure;
+    padding:5px;
+    text-align:justify;
+}
+
+.segundo{
+    margin-top:0px;
+    margin-left:18%;
+    margin-right:18%;
+    background-color:rgb(0, 0, 0);
+    color:azure;
+    padding:5px;
+    text-align:justify;
+    text-align:justify;
+}
+
+.terceiro{
+    margin-top:0px;
+    margin-left:18%;
+    margin-right:18%;
+    background-color:rgb(0, 0, 0);
+    color:azure;
+    padding:5px;
+    text-align:justify;
+    text-align:justify;
+}
+
+.quarto{
+    margin-top:0px;
+    margin-left:18%;
+    margin-right:18%;
+    background-color:rgb(0, 0, 0);
+    color:azure;
+    padding:5px;
+    text-align:justify;
+    text-align:justify;
+}
+
+.quinto{
+    margin-top:0px;
+    margin-left:18%;
+    margin-right:18%;
+    background-color:rgb(0, 0, 0);
+    color:azure;
+    padding:5px;
+    text-align:justify;
+    text-align:justify;
+}
+
+.m{
+    border: white 1px solid;
+    width:250px;
+}
+
+.mudar{
+    margin-left: 35%;
+    margin-top: 1px;
+}
+
+.mudara:hover{
+    color:red;
+}
+
+p{
+    text-align: center;
+    font-size:35px;
+}
+
+.insta:hover{
+    color:rgb(156, 73, 43);
+}
+
+.face:hover{
+    color:rgb(44, 44, 255);
+}
+
+hr{
+    width: 75%;
+    height:3px;
+    background-color:rgb(168, 168, 168);
+}
+
+.mdar{
+    border-radius:0px;
+}
+
+/* ASSASSINS CREED I */
+
+.ac:hover{
+    color:black;
+    background: -moz-radial-gradient(black, gray);
+}
+
+.altair{
+    padding:3px;
+    margin:0;
+    float:left;
+}
+
+.segundoac{
+    margin-top:0px;
+    margin-left:18%;
+    margin-right:18%;
+    background-color:rgb(0, 0, 0);
+    color:azure;
+    padding:5px;
+    text-align:justify;
+    text-align:justify;
+}
+
+.sexto{
+    margin-top:0px;
+    margin-left:18%;
+    margin-right:18%;
+    background-color:rgb(0, 0, 0);
+    color:azure;
+    padding:5px;
+    text-align:justify;
+    text-align:justify;
+}
+
+.setimo{
+    margin-top:0px;
+    margin-left:18%;
+    margin-right:18%;
+    background-color:rgb(0, 0, 0);
+    color:azure;
+    padding:5px;
+    text-align:justify;
+    text-align:justify;
+}
+
+.oitavo{
+    margin-top:0px;
+    margin-left:18%;
+    margin-right:18%;
+    background-color:rgb(0, 0, 0);
+    color:azure;
+    padding:5px;
+    text-align:justify;
+    text-align:justify;
+}
+.cabecalho{
+     color:red;
+     text-decoration: none;
+     padding:2px;
+     margin:0;
+     text-align:center;
+     bottom:0;
+}
+.cabecalho:hover{
+    color:red;
+}
+
+.ac2{
+    float: left;
+    margin-left:1px;
+}
+
+.menu1{
+    display:inline-block;
+    padding:5px;
+    align-items: center;
+}
+
+a:hover{
+    color:red;
+}
+
+.BH{
+    float:left;
+    padding-right:2px;
+}
+
+.centro{
+    text-align:center;
+}
+
+.centro:hover{
+    color:red;
+}
+
+.R{
+    float:left;
+    padding-right:2px;
+}
+
+.form{
+    border: white 1px;
+}
+
+.nome{
+    border-radius: 2px;
+}
+
+.email{
+    border-radius: 2px;
+}
+
+label{
+    color:white;
+}
+
+.contato{
+    float:right;
+}
+
+.Voltar.hover{
+    color:red;
+}
+.Voltar{
+    text-align: center;
+}
+
+.volta{
+    font-size:15px;
+}
+
+footer{
+    background-color:rgb(0, 0, 0);
+    color:azure;
+    text-align:justify;
+    text-align:justify;
+}
